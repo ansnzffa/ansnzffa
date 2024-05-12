@@ -1,5 +1,5 @@
 - 👋 Hi, I’m anisnaziffa
-- 👀 I’m interested in baking sometimes coding :)
+- 👀 I’m interested in coding sometimes baking :)
 - 🌱 I’m currently learning Flutter Framework
 
 
